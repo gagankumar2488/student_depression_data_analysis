@@ -1,5 +1,5 @@
 Serial Number,id,Gender,Age,City,Profession,Academic Pressure,Work Pressure,CGPA,Study Satisfaction,Job Satisfaction,Sleep Duration,Dietary Habits,Degree,Have you ever had suicidal thoughts ?,Work/Study Hours,Financial Stress,Family History of Mental Illness,Depression
-0,1,Male,19,Delhi,Student,4,0,6.0,3,0,'6-7 hours',Moderate,B.com,Yes,8,4,No,True
+0,1,Male,19,Delhi,Student,4,0,6.0,3,0,'6-7 hours',Moderate,B.Com,Yes,8,4,No,True
 1,2,Male,33,Visakhapatnam,Student,5,0,8.97,2,0,'5-6 hours',Healthy,B.Pharm,Yes,3,1,No,True
 2,8,Female,24,Bangalore,Student,2,0,5.9,5,0,'5-6 hours',Moderate,BSc,No,3,2,Yes,False
 3,26,Male,31,Srinagar,Student,3,0,7.03,5,0,'Less than 5 hours',Healthy,BA,No,9,1,Yes,False
